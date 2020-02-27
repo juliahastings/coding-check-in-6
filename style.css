@@ -4,6 +4,9 @@ p {
 ol {
   font-family: georgia;
 }
+li {
+  list-style-type: circle;
+}
 b {
   color: teal;
 }
